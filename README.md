@@ -1,5 +1,5 @@
 # Vibration-Sensor
-##Data relevant to the vibration sensor prototype sent to USA.
+## Data relevant to the vibration sensor prototype sent to USA.
 Content:
 - flushDetector_7_multilevel: Arduino code programmed into controller.
 - vibrationSensorPrototype_wiring.jpg: wiring of hardware.
